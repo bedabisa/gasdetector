@@ -4,9 +4,9 @@
 
 BlynkTimer timer;
 
-char auth[] = "5XOOwW-iYrEXHw8xqr2rYlwYz8EwBWA0";
-char ssid[] = "BEDABISA";
-char pass[] = "I23A5678g";
+char auth[] = ""; //Isi dengan Auth Code dari Blynk
+char ssid[] = ""; //Isi dengan ssid WiFi yang dipakai
+char pass[] = ""; //Isi dengan password WiFi yang dipakai
 int nilai;
 
 void setup() {
